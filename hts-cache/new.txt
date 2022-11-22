@@ -1,0 +1,7 @@
+date	size'/'remotesize	flags(request:Update,Range state:File response:Modified,Chunked,gZipped)	statuscode	status ('servermsg')	MIME	Etag|Date	URL	localfile	(from URL)
+20:17:47	4388/4388	U-----	200	untouched ('OK')	text/html	date:Mon,%2021%20Nov%202022%2017:15:03%20GMT	http://127.0.0.1:5000/	C:/%20M%20Web%20s/1/127.0.0.1_5000/index.html	(from )
+20:17:47	6900/6900	U-----	200	untouched ('OK')	text/html	date:Mon,%2021%20Nov%202022%2017:15:04%20GMT	http://127.0.0.1:5000/about	C:/%20M%20Web%20s/1/127.0.0.1_5000/about.html	(from http://127.0.0.1:5000/)
+20:17:47	40/40	U-----	200	untouched ('OK')	text/css	etag:%221662645520.2080817-40-1285893097%22	http://127.0.0.1:5000/static/css/main.css	C:/%20M%20Web%20s/1/127.0.0.1_5000/static/css/main.css	(from http://127.0.0.1:5000/)
+20:17:47	4909/4909	U-----	200	untouched ('OK')	text/html	date:Mon,%2021%20Nov%202022%2017:15:04%20GMT	http://127.0.0.1:5000/create_article	C:/%20M%20Web%20s/1/127.0.0.1_5000/create_article.html	(from http://127.0.0.1:5000/)
+20:17:47	4465/4465	U--M--	200	updated ('OK')	text/html	date:Mon,%2021%20Nov%202022%2017:17:47%20GMT	http://127.0.0.1:5000/posts	C:/%20M%20Web%20s/1/127.0.0.1_5000/posts.html	(from http://127.0.0.1:5000/)
+20:17:47	34680/34680	U-----	200	untouched ('OK')	image/svg+xml	etag:%221662719016.91-34680-3624415873%22	http://127.0.0.1:5000/static/images/zeppelin_icon_227547.svg	C:/%20M%20Web%20s/1/127.0.0.1_5000/static/images/zeppelin_icon_227547.svg	(from http://127.0.0.1:5000/)
